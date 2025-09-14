@@ -3,6 +3,8 @@ created_at:
 modified_at: 
 ---
 
+# Tragedian
+
 ## Principles
 
 - 知的生産性をできるだけ高めつつ、ノートを運用・保守するための人間側に要求される労力を最小化することを目的とする。
